@@ -1,0 +1,1 @@
+# -wget-https-raw.github.com-Wolfterro-Projetos-em-C-master-bin-olamundo-chmod-x-olamundo-.-olamundo
